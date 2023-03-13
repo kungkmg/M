@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "export": "^0.1.337",
+    "kazagumo": "^2.3.2",
+    "lyrics-finder": "^21.7.0",
+    "mongoose": "^7.0.0",
+    "shoukaku": "^3.3.1"
+  },
+  "name": "M",
+  "description": "✈ Join Discord: https://discord.gg/ntDAcUu4tB 👌",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungkmg/M.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kungkmg/M.git"
+  },
+  "homepage": "https://github.com/kungkmg/M.git",
+  "author": "Adivise",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
